@@ -1,2 +1,8 @@
 # Clite-Interpreter
-Programming Language Concept Lecture, Dongguk University
+
+>#### <i class="icon-file"><> Program Flow  
+>  
+> Lexre -> Parser -> Static Type Check -> Type Transformer -> Semantics  
+>
+> input : Source code  
+> output : Execution results  
